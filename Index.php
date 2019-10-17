@@ -31,8 +31,6 @@
             </a>
         </div>    
 
-<!-- CONFERIDO ATÉ AQUI -->
-
     </section>
     <section id="servicos">
         <div class="container">
@@ -52,7 +50,6 @@
         </div>    
     </section>    
 
-<!-- CONFERIDO ATÉ AQUI -->
 
     <section id="sobre">
         <div class="container">
@@ -70,8 +67,6 @@
             </div>
         </div>
     </section>            
-
-<!-- CONFERIDO ATÉ AQUI -->
 
     <section id="contato">
         <div class="container">
