@@ -18,7 +18,6 @@
             </div>
         </div>
 
-
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Anterior</span>
@@ -42,7 +41,6 @@
             <?php listarServicos(); ?>
             <!-- <div class="col"> -->
             <!-- require('function.php'); -->
-
             <!-- </div> -->
         </div>
     </div>
@@ -71,7 +69,7 @@
         <div class="row">
             <div class="col-md-6 p-5">
                 <!-- <div class="col"> -->
-                <h2>Contato</h2>
+                <h2>contato</h2>
 
                 <form>
                     <div class="form-group">
